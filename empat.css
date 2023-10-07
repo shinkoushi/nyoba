@@ -1,0 +1,55 @@
+*{
+    text-decoration: none;
+ 
+}
+
+body{
+    background-color:rgb(238, 238, 150);
+    text-decoration: none;
+}
+.card{
+    background-color: white;
+    width: 200px;
+    height: 280px;
+    border: 2px solid rgb(216, 23, 216);
+    padding: 10px;
+}
+.card-words{
+    width: 200px;
+}
+img{
+    width: 200px;
+}
+h5{
+    font-family: cursive;
+}
+h4{
+    text-align: right;
+    font-weight: bold;
+    font-family:monospace;
+}
+h2{
+    color: white;
+    background-color: #191919;
+    border: 2px solid red;
+    padding: 5px;
+}
+h2:hover{
+    color:lightcoral;
+    transition: 0.5s;
+}
+.lanjut{
+    background-color: #191919;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    border: 3px solid red;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 30px;
+    transition: transform 0.5s;
+}
+.lanjut:hover{
+    color: red;
+    transition: 0.5s;
+}

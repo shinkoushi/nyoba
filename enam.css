@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(238, 238, 150);
+}
+video{
+    width:320px;
+    padding-top: 20px;
+}
+.card{
+    background-color: rgb(224, 159, 170);
+    width: 325px;
+    height: 250px;
+    border: 2px solid rgb(216, 23, 216);
+    padding: 10px;
+     
+}
+h4{
+    font-family: cursive;
+    padding-top: 20px;
+}
+h2{
+    padding-top: 20px;
+}
+.lanjut{
+    background-color: #191919;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    border: 3px solid red;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 30px;
+    transition: transform 0.5s;
+}
+.lanjut:hover{
+    color: red;
+    transition: 0.5s;
+}

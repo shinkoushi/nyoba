@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin:0;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(238, 238, 150);;
+}
+.atas{
+    background-color: #191919;
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+    border-bottom: 2px solid red;
+}
+img{
+    width: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p{
+    font-family: cursive;
+}
+span{
+    color:red;
+}
+.lanjut{
+    background-color: #191919;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    border: 3px solid red;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 30px;
+    transition: transform 0.5s;
+}
+.lanjut:hover{
+    color: red;
+    transition: 0.5s;
+}
+.footernya{
+    text-align: center;
+    background-color: #191919;
+    color:white;
+    padding-bottom: 20px;
+}
+.baris1{
+   padding-bottom: 10px;
+}
