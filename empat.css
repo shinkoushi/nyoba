@@ -2,6 +2,7 @@
     text-decoration: none;
  
 }
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap')
 
 body{
     background-color:rgb(238, 238, 150);
@@ -21,7 +22,7 @@ img{
     width: 200px;
 }
 h5{
-    font-family: cursive;
+    font-family: 'Caveat', cursive;
 }
 h4{
     text-align: right;
